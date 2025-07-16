@@ -1,3 +1,11 @@
+/* 
+  amran hamam 212132096
+  nagham hasan 214035891
+  fatma tabash 325469971 
+*/
+
+
+
 window.addEventListener("DOMContentLoaded", () => {
   const urlParams = new URLSearchParams(window.location.search);
   const film = urlParams.get("film");

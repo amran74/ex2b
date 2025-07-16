@@ -600,35 +600,7 @@ body {
     object-fit: contain;
   }
   
-  .critic-text {
-    line-height: 1.3;
-  }
-  .review-container {
-  background-color: #fffad0;
-  padding: 10px;
-  border-radius: 6px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
-}
-
-.review {
-  display: flex;
-  align-items: center;
-  margin-bottom: 10px;
-}
-
-.review img.icon {
-  margin-right: 10px;
-}
-
-.critic-info-centered {
-  display: flex;
-  align-items: center;
-}
-
-.critic-icon-vertical {
-  margin-right: 10px;
-}
+  
 
   
   
